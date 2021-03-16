@@ -1,0 +1,61 @@
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 95%;
+    margin: auto;
+    background-color: black;
+    color: white;
+}
+
+.icon{
+    width: 90%;
+    margin-left: 55px;
+}
+.user{
+    width: 10%;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+    gap: 50px;
+}
+.products{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 70%;
+}
+.menu{
+    width: 20%;
+    background-color: gainsboro;
+    margin-left: 25px;
+}
+.product{
+    display: flex;
+    flex-direction: column;
+    gap : 10px;
+    height: 200px;
+}
+img{
+    height: 400px;
+}
+.p-info{
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+}
+.p-name{
+    height: 10%;
+}
+.p-price{
+    height: 10%;
+}
+.p-about{
+    height: 80%;
+    margin: auto;
+}
+

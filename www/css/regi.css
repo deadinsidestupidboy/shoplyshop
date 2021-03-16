@@ -1,0 +1,14 @@
+header{
+    width: 100%;
+    text-align: center;
+}
+.regi{
+    width: 60%;
+    margin: auto;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 15px;
+}
